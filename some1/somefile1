@@ -1,4 +1,10 @@
  this is somefile
+<<<<<<< HEAD
 Mon Feb 29 11:49:51 IST 2016
 Fri Apr 29 11:15:23 IST 2016
 Fri Apr 29 11:52:21 IST 2016
+=======
+
+
+this is someline
+>>>>>>> release3
