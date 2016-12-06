@@ -1,11 +1,6 @@
 s this is in the root dir
 this is added to rootfile in release1
 new line to rootfile
-<<<<<<< HEAD
-new line in master
-new line in release2
-Fri Apr 29 16:07:14 IST 2016
-=======
 Fri Apr 29 10:24:52 IST 2016
 newline
 Fri Apr 29 10:41:00 IST 2016
@@ -18,13 +13,5 @@ Fri Apr 29 11:44:58 IST 2016
 Fri Apr 29 11:47:59 IST 2016
 Fri Apr 29 11:49:26 IST 2016
 Fri Apr 29 11:52:12 IST 2016
-<<<<<<< HEAD
->>>>>>> release1
-added for GitMerger
-=======
 Tue Dec 6 14:53:58 IST 2016
-<<<<<<< HEAD
->>>>>>> release1
-=======
 Tue Dec 6 15:49:26 IST 2016
->>>>>>> release1
